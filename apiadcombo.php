@@ -34,5 +34,5 @@ if ($curl = curl_init()) {
   curl_close($curl);
 }
 
-$_SESSION["phone"] = $phone;
+
 
